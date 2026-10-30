@@ -1,0 +1,37 @@
+{
+ "cliente": "ODONTO SPACE",
+ "slug": "odonto_space",
+ "objetivo": "Conversas no WhatsApp",
+ "regiao": "a definir",
+ "plataformas_txt": "do Meta Ads (Facebook e Instagram)",
+ "logo_cabecalho": "assets/LOGO-DO-CLIENTE.png",
+ "logo_rodape": "assets/logo-marcelo-oliveira.svg",
+ "whatsapp_marcelo": "5521990800215",
+ "cores": {
+  "destaque": "#F2C01E",
+  "dourado": "#C99700",
+  "series": [
+   "#3B3B38",
+   "#C99700"
+  ],
+  "plataformas": {}
+ },
+ "canais": {},
+ "contas": {
+  "meta": {
+   "act": "348278376373646",
+   "business_id": "110477384156098"
+  }
+ },
+ "modo": "meta",
+ "pendente": [
+  "regiao",
+  "logo_cabecalho",
+  "cores",
+  "campanhas"
+ ],
+ "como_ler": [
+  "Lead é a conversa iniciada no WhatsApp a partir do anúncio, contada pelo Meta Ads.",
+  "Os valores são lidos do Gerenciador de Anúncios do Meta no mês de calendário; o dia da leitura é parcial."
+ ]
+}
