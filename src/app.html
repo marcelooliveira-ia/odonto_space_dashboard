@@ -313,7 +313,7 @@ dash.draw('acoes',(el)=>{
  el.replaceChildren();
  const d=dash.data('acoes');if(d.status!=='ok'){return;}
  d.data.forEach((r,i)=>{
-  const c=document.createElement('div');c.className='card';
+  const c=document.createElement('div');c.className='card'+((r.tipo==='Decisão sua'||r.tipo==='Ação sua')?' atencao':'');
   const rh=document.createElement('div');rh.className='rh';
   const n=document.createElement('span');n.className='num';n.textContent=String(i+1);
   const t=document.createElement('span');t.className='tag '+((r.tipo==='Decisão sua'||r.tipo==='Ação sua')?'t-dec':'t-nos');t.textContent=r.tipo;
