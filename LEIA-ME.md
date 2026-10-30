@@ -1,7 +1,7 @@
-# Painel de desempenho por plataforma — Persianas Grajaú
+# Painel de desempenho por plataforma — ODONTO SPACE
 
-Página pública: https://marcelooliveira-ia.github.io/persianas_grajau_dashboard/
-Arquivo dos meses: https://marcelooliveira-ia.github.io/persianas_grajau_dashboard/meses/AAAA-MM/
+Página pública: https://marcelooliveira-ia.github.io/odonto_space_dashboard/
+Arquivo dos meses: https://marcelooliveira-ia.github.io/odonto_space_dashboard/meses/AAAA-MM/
 
 ## Estrutura
 - `src/` molde do painel (igual para todos os clientes)
