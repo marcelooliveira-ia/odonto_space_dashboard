@@ -1,0 +1,45 @@
+{
+ "cliente": "ODONTO SPACE",
+ "slug": "odonto_space",
+ "objetivo": "Conversas no WhatsApp",
+ "regiao": "Bangu e Zona Oeste do Rio de Janeiro",
+ "plataformas_txt": "do Meta Ads (Facebook e Instagram)",
+ "logo_cabecalho": "assets/logo-odonto-space-branca.svg",
+ "logo_rodape": "assets/logo-marcelo-oliveira.svg",
+ "whatsapp_marcelo": "5521990800215",
+ "cores": {
+  "destaque": "#FFFFFF",
+  "dourado": "#231F20",
+  "series": [
+   "#231F20",
+   "#8C8C8C"
+  ],
+  "plataformas": {
+   "Ortodontia": "#231F20",
+   "Prótese": "#8C8C8C"
+  }
+ },
+ "canais": {
+  "Ortodontia": "Facebook, Instagram",
+  "Prótese": "Facebook, Instagram"
+ },
+ "contas": {
+  "meta": {
+   "act": "348278376373646",
+   "business_id": "110477384156098"
+  }
+ },
+ "grupos": {
+  "Ortodontia": [
+   "Ortodontia"
+  ],
+  "Prótese": [
+   "Prótese"
+  ]
+ },
+ "como_ler": [
+  "Todos os anúncios deste painel são do Meta Ads (Facebook e Instagram); por isso o painel compara as duas campanhas ativas, Ortodontia e Prótese.",
+  "Lead é a conversa por mensagem iniciada a partir do anúncio, como informada pelo Meta. Parte desse número é estimada pela plataforma e pode diferir um pouco do total de contatos que chegaram ao WhatsApp.",
+  "O painel mede o custo para gerar cada conversa, não quantas viraram avaliação ou tratamento."
+ ]
+}
